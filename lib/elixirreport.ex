@@ -1,0 +1,2 @@
+defmodule Elixirreport do
+end
